@@ -1,6 +1,6 @@
 # Jigsaw Puzzle Android Game
 An Android app for building random puzzles using pictures from your camera or our gallery.
-![alt text for screen readers](/path/to/image.png "Text to show on mouseover").
+![Puzzle](docs/img/jigsaw-puzzle.png).
 
 ### Features:
 
