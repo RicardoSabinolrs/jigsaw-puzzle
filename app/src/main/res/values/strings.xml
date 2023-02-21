@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quebra Cabeça do Nicollas</string>
+    <string name="obter_imagem_do_celular">Obter imagem do celular</string>
+    <string name="ligar_camera">Ligar Camera</string>
+</resources>
