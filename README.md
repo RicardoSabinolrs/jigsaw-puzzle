@@ -8,4 +8,6 @@ Take a photo with your phone and make a puzzle out of it choose from various ima
 
 -----
 ### App
-![Puzzle](docs/img/jigsaw-puzzle.png)
+
+
+![Puzzle](docs/img/jigsaw-puzzle.png) | ![Puzzle](docs/img/jigaw-puzzle-play.png)
